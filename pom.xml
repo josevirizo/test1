@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.orienteed.test</groupId>
 	<artifactId>test1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<properties>
 		<sonar.language>java</sonar.language>
 		<lib.junit.version>4.12</lib.junit.version>
